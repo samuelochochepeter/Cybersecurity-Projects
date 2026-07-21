@@ -138,18 +138,6 @@ To reduce the likelihood of similar incidents, organizations should implement:
 
 ---
 
-## Repository Structure
-
-```text
-Analysis-of-the-2017-Equifax-Data-Breach/
-│
-├── README.md
-├── Equifax_Data_Breach_Report.pdf
-├── screenshots/
-├── references/
-└── assets/
-```
-
 ---
 
 ## Skills Demonstrated
