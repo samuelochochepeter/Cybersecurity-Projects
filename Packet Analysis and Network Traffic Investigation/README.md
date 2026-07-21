@@ -171,26 +171,6 @@ Through this project, the following concepts were reinforced:
 
 ---
 
-## Repository Structure
-
-```text
-Packet-Analysis-and-Network-Traffic/
-│
-├── README.md
-├── Packet_Analysis_Report.pdf
-├── packet-captures/
-│   └── network_capture.pcapng
-├── screenshots/
-│   ├── arp-analysis.png
-│   ├── dns-analysis.png
-│   ├── tcp-handshake.png
-│   ├── icmp-analysis.png
-│   ├── tls-analysis.png
-│   └── conversation-statistics.png
-├── filters/
-│   └── wireshark-filters.md
-└── assets/
-```
 
 ---
 
